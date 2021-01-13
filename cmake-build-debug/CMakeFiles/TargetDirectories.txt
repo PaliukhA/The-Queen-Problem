@@ -1,0 +1,3 @@
+/home/paliukh/shad/co/3/hw3solve3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/paliukh/shad/co/3/hw3solve3/cmake-build-debug/CMakeFiles/hw3solve3.dir
+/home/paliukh/shad/co/3/hw3solve3/cmake-build-debug/CMakeFiles/edit_cache.dir
